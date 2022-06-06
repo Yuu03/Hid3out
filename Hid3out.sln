@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hid3out", "Hid3out\Hid3out.csproj", "{980139B7-7F2F-4468-9C0C-21A23068ADF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hid3out.Test", "Hid3out.Test\Hid3out.Test.csproj", "{BE1AD393-3CFD-45B3-8B73-9B2D7B7ABA37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{980139B7-7F2F-4468-9C0C-21A23068ADF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980139B7-7F2F-4468-9C0C-21A23068ADF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980139B7-7F2F-4468-9C0C-21A23068ADF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980139B7-7F2F-4468-9C0C-21A23068ADF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1AD393-3CFD-45B3-8B73-9B2D7B7ABA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1AD393-3CFD-45B3-8B73-9B2D7B7ABA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1AD393-3CFD-45B3-8B73-9B2D7B7ABA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1AD393-3CFD-45B3-8B73-9B2D7B7ABA37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
